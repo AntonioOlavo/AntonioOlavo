@@ -27,6 +27,8 @@
 ![java](https://img.shields.io/badge/-java-0D1117?style=for-the-badge&logo=oracle&logoColor=1572B6&labelColor=0D1117)&nbsp;
 ![python](https://img.shields.io/badge/-python-0D1117?style=for-the-badge&logo=python&logoColor=1572B6&labelColor=0D1117)&nbsp;
 ![sql](https://img.shields.io/badge/-MySQL-0D1117?style=for-the-badge&logo=mysql&labelColor=0D1117)&nbsp;
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/SEUUSERNAME/);
+[![E-mail](https://img.shields.io/badge/-Email-000?style=for-the-badge&logo=microsoft-outlook&logoColor=007BFF)](mailto:antonioolavo175@gmail.com);
 
 <div align="center">
 <br><p align="centre"><b>Visitors Count</b></p>  
